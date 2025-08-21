@@ -25,14 +25,18 @@ This research examines successful waste management systems and software deployed
 - **Compliance reporting:** Automatically generates required government and environmental reports for waste disposal, recycling rates, and regulatory compliance to avoid fines and maintain licenses
 
 **Who Pays:**
-- Private waste hauling companies
-- Municipal waste departments
-- Recycling facilities
-- Large-scale waste management enterprises
+- **Private waste hauling companies:** Commercial businesses that collect waste from restaurants, offices, and businesses. They purchase this software to manage their truck routes, customer billing, and operations more efficiently
+- **Municipal waste departments:** City or county government departments responsible for collecting residential garbage and recycling. They buy this software using taxpayer funds allocated for waste management operations
+- **Recycling facilities:** Processing plants that sort and process recyclable materials. They use the software to track incoming materials, manage logistics, and optimize operations
+- **Large-scale waste management enterprises:** Major corporations like Waste Management Inc. or Republic Services that operate across multiple states/countries
 
-**Funding Model:** Subscription-based SaaS pricing, typically paid from operational budgets
+**Funding Model:** 
+- **Subscription-based SaaS pricing:** Companies pay monthly or annual fees (typically $50-500+ per truck/user per month) to access the software online rather than buying it outright
+- **Paid from operational budgets:** The cost comes from the money businesses already set aside for daily operations, often justified because the software reduces fuel and labor costs by 10-25%
 
 ### Waste Logics
+**Website:** https://wastelogics.com/
+
 **Functionality:**
 - **End-to-end waste management solution:** Complete software package that manages every aspect of waste business operations from initial customer contact through final disposal tracking and billing
 
@@ -47,12 +51,14 @@ This research examines successful waste management systems and software deployed
 - **Performance analytics:** Reports showing driver efficiency, route profitability, customer satisfaction metrics, and operational costs to help managers make data-driven decisions
 
 **Who Pays:**
-- Private hauling companies
-- Recycling facilities
-- Scrap metal dealers
-- Regional waste management operators
+- **Private hauling companies:** Small to medium-sized waste collection businesses that service commercial customers like restaurants, retail stores, and office buildings
+- **Recycling facilities:** Material recovery facilities (MRFs) and scrap yards that need to track different types of materials and their processing
+- **Scrap metal dealers:** Businesses that buy, process, and sell metal waste materials
+- **Regional waste management operators:** Companies that serve specific geographic areas, often under contract with local governments
 
-**Funding Model:** License fees and monthly subscriptions funded through operational efficiency savings
+**Funding Model:** 
+- **License fees and monthly subscriptions:** One-time setup cost ($5,000-50,000+) plus ongoing monthly fees ($100-1,000+ per month depending on company size)
+- **Funded through operational efficiency savings:** Companies use money saved from better route planning (reduced fuel costs) and faster billing (reduced administrative time) to pay for the software
 
 ### Routeware
 **Website:** https://routeware.com/
@@ -71,11 +77,13 @@ This research examines successful waste management systems and software deployed
 - **Mobile applications for field operations:** Smartphone/tablet apps that eliminate paperwork by allowing drivers to electronically record pickups, take photos for proof of service, and update customer information directly from the truck
 
 **Who Pays:**
-- Both private haulers and municipal fleets
-- Waste collection cooperatives
-- Regional government authorities
+- **Both private haulers and municipal fleets:** Works for both commercial waste companies and city/county government waste departments
+- **Waste collection cooperatives:** Groups of smaller waste companies that band together to share costs and resources
+- **Regional government authorities:** County or multi-city organizations that manage waste collection across larger areas
 
-**Funding Model:** Tiered pricing based on fleet size, often ROI-justified through fuel and labor savings
+**Funding Model:** 
+- **Tiered pricing based on fleet size:** Small companies with 5-10 trucks might pay $200-500/month while large operations with 100+ trucks could pay $5,000-15,000/month
+- **ROI-justified through fuel and labor savings:** Companies typically see 15-30% reduction in fuel costs and 20-40% improvement in route efficiency, which pays for the software within 6-12 months
 
 ## 2. SMART SENSOR AND IoT SYSTEMS
 
@@ -96,20 +104,21 @@ This research examines successful waste management systems and software deployed
 - **Integration with fleet management systems:** Connects with existing waste management software to automatically schedule pickups only when needed and optimize collection routes based on actual fill levels
 
 **Who Pays:**
-- City governments (primary market)
-- Universities and educational institutions
-- Shopping centers and retail complexes
-- Corporate campuses
-- Transit authorities
+- **City governments (primary market):** Municipal governments that want to modernize public waste collection and reduce costs. Cities typically spend $200-2,000 per smart bin
+- **Universities and educational institutions:** Colleges and schools that want cleaner campuses and reduced maintenance costs for groundskeeping staff
+- **Shopping centers and retail complexes:** Mall operators and retail chains that need to manage high-volume waste areas efficiently
+- **Corporate campuses:** Large companies with extensive office complexes that want to improve their environmental image and reduce waste management costs
+- **Transit authorities:** Airport, subway, and bus system operators dealing with high public waste volumes
 
 **Funding Model:** 
-- Capital expenditure from municipal budgets
-- Smart city initiative funding
-- Green infrastructure bonds
-- Public-private partnerships
+- **Capital expenditure from municipal budgets:** Cities allocate $50,000-500,000+ from their annual infrastructure budgets for smart waste projects
+- **Smart city initiative funding:** Federal or state grants specifically designated for technology improvements in cities (often 50-80% funding match)
+- **Green infrastructure bonds:** Long-term borrowing (5-15 years) specifically for environmental improvement projects
+- **Public-private partnerships:** City provides locations, private company provides bins and shares operational savings
 
 ### Sensoneo IoT Waste Monitoring
 **Website:** https://sensoneo.com/
+**US Website:** https://sensoneo.us/
 
 **Functionality:**
 - **Ultrasonic sensors for various waste container types:** Small devices that install in any size bin or dumpster and use sound waves to accurately measure fill levels, working with metal, plastic, or concrete containers
@@ -125,15 +134,15 @@ This research examines successful waste management systems and software deployed
 - **Multi-waste stream monitoring:** Separate tracking for different types of waste (general trash, recycling, organic waste) to optimize collection schedules and improve recycling reporting accuracy
 
 **Who Pays:**
-- Municipal waste departments
-- Private waste management companies
-- Property management firms
-- Industrial facilities
+- **Municipal waste departments:** City and county governments that manage public waste collection and want to optimize pickup schedules for taxpayer-funded services
+- **Private waste management companies:** Commercial haulers that service multiple customers and need to reduce operational costs to stay competitive
+- **Property management firms:** Companies that manage apartment complexes, office buildings, or shopping centers and are responsible for waste collection efficiency
+- **Industrial facilities:** Factories, warehouses, and manufacturing plants that generate large volumes of waste and need precise monitoring for cost control
 
 **Funding Model:** 
-- Sensor hardware purchase + software subscription
-- Starter kits with 3-month software trials
-- Enterprise contracts with volume discounts
+- **Sensor hardware purchase + software subscription:** Initial cost of $100-300 per sensor plus $10-50 per sensor per month for data service and software access
+- **Starter kits with 3-month software trials:** Entry-level packages around $500-1,000 that allow companies to test the technology before full deployment
+- **Enterprise contracts with volume discounts:** Large installations (50+ sensors) often get 20-40% discounts and multi-year service agreements
 
 ### Other Notable IoT Solutions
 - **Enevo**: Sensor-based waste analytics
